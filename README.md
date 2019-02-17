@@ -4,7 +4,17 @@
 
 Oepcoin Attached Condition
 
-Total amount of Oepcoin is 588 million. Oepc is the achievement of research and development by Taiyuan Changtong Real Estate Development Co., Ltd, and it is a cross-border encrypted payment system based on block chain smart contract payment protocol. 
+Total amount of Oepcoin is 588 million, which, in current environment, belongs to a digital currency with extremely low amount. 
+
+Oepc is the achievement of research and development by Taiyuan Changtong Real Estate Development Co., Ltd, and it is a cross-border encrypted payment system based on block chain smart contract payment protocol. 
+
+Oepc will combine the current block chain technology with science & technology and AI technology, follow the philosophy of decentralization and distribution, and start cooperation in such fields as finance, payment, real estate, entertainment, advertising, energy, online marketing, culture, game, tourism, catering, health, medical treatment, education, advertising, film & TV, and copyright protection, etc. to build a trustworthy machine for every one! 
+
+The largest difference in Oepc is as follows: 5% service charge it collects is able to self destroy preservation value in circulation, which is unavailable for Bitcoin/Ethereum. 
+
+Therefore, in future, both its scarcity and its value will be higher and higher to finally truly become “digital gold”in block chain market! 
+
+A variety of Oepc application scenarios also accelerate its market acceptance and promotion of group resources in full channels. 
 
 It uses the fully-opened block chain technology, decentralized without additional issuance permanently. It is established based on the fourth generation of block chain technology, block chain application and cryptography.
 
